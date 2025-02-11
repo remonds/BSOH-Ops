@@ -465,6 +465,6 @@ For all matters **not provided for or regulated** in these statutes, the **Belgi
 Drafted and adopted at the General Assembly on March 6, 2020,
 
 In Leuven,
-Signed on the deed by two directors.
+Signed by two directors.
 
 ---
