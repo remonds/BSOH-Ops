@@ -12,5 +12,5 @@ To fulfill its mission, BSOH pursues the following objectives:
 - **The publication of newsletters and scientific articles** to share relevant knowledge.  
 
 📌 **For more details, see:**  
-- [BSOH Statutes](docs/statutes.md)  
-- [BSOH Code of Ethics](docs/code_of_ethics.md)  
+- [BSOH Statutes](../statutes.md)  
+- [BSOH Code of Ethics](../code_of_ethics.md)  
